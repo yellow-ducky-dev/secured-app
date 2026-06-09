@@ -8,5 +8,5 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  [![Email](https://img.shields.io/badge/📧_Email-rsikandar733@gmail.com-0c2d6b?style=flat-square)](mailto:rsikandar733@gmail.com)
+  [![Email](mailto:rsikandar733@gmail.com)
 </p>
